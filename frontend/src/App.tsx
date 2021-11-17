@@ -1,10 +1,10 @@
-import Header from "components/Header";
+import Navbar from "components/Navbar";
 import Footer from "components/Footer";
 
 function App() {
   return (
     <>
-     <Header/>
+     <Navbar/>
     <h1>Hello World!!</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio modi vel laboriosam! Eos modi ad, minima porro dolor doloremque atque sequi voluptatum fugiat impedit placeat fugit alias sint pariatur rerum!
       Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt iusto ducimus nemo sapiente. Odio, hic ipsum! Suscipit deserunt id dolor, dolorem ipsam, expedita sit quis minus harum vitae adipisci facilis.

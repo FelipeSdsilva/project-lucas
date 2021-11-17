@@ -39,7 +39,7 @@ header {
 .header--menu {
     flex: 1;
     display: flex;
-    justify-content: end;
+    /*justify-content: end;*/
 }
 
 .header--logo-img {
@@ -52,7 +52,6 @@ header {
 .footer {
     height: 100px;
     background-color: #000;
-    justify-content: end;
     flex-shrink: 0;
     text-align: center;
     margin-top: auto;
